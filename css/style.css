@@ -148,6 +148,15 @@ footer {
 	margin-right: auto;
 }
 
+.fondo-verde{
+	background: #43D2A4;
+	color: #fff;
+}
+
+.fondo-morado{
+	background: #2a1754;
+	color: #fff;
+}
 
 @media (max-width: 480px) {
 	.logos{
